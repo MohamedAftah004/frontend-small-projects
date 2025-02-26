@@ -7,7 +7,7 @@ This is where I store all my frontend projects, including challenges from **Fron
 
 ## 📂 Projects  
 
-| Project Name    | Live Demo              |
+| Project Name    | Live Demo               <br>
 |-----------------|----------|-------------|
 | **Recipe Page** | [🔗 View Project](https://mohamedaftah004.github.io/recipe-page-main/) |
 
