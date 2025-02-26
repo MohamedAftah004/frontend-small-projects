@@ -1,0 +1,101 @@
+body {
+  background-color: antiquewhite !important;
+}
+
+.container .row img {
+  border-radius: 20px !important;
+  width: 90% !important;
+  margin: 5% auto !important;
+}
+.container {
+  border-radius: 20px !important;
+}
+
+.text-aria {
+  width: 90% !important;
+  margin: auto;
+}
+
+.list-styled {
+  list-style: disc;
+}
+
+.list-area {
+  background-color: #f7eef3;
+}
+
+.internal-space {
+  padding-left: 10px;
+}
+
+.section h3 {
+  color: rgb(152, 47, 47) !important;
+}
+
+.down-space {
+  padding: 6px 0px;
+}
+
+.third-list li {
+  list-style: decimal;
+}
+
+.third-list li::marker {
+  color: rgb(152, 47, 47);
+  font-weight: bold;
+}
+
+.secondary-dark-light {
+  font-size: 14px;
+  color: rgb(119, 114, 114);
+  font-weight: 300;
+  font-family: sans-serif;
+}
+
+.second-title {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.down-space-2x {
+  padding: 18px 0px;
+}
+
+.list-table .second {
+  font-weight: bold;
+  color: rgb(152, 47, 47);
+}
+
+.list-table .first {
+  padding-left: 5%;
+}
+
+.list-table-2-cols .second {
+  font-weight: bold;
+  color: rgb(152, 47, 47);
+}
+
+.list-group-item {
+  position: relative; /* مهم لضبط ::after */
+  padding-bottom: 10px; /* للتحكم في المسافة بين النص والخط */
+}
+
+.list-group-item::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 92%;
+  height: 1px; /* سمك الخط */
+  background-color: #ccc; /* لون البوردر */
+  transform: translateX(-50%);
+}
+
+.list-group-item:last-child::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 1px; /* سمك الخط */
+  background-color: #ccc; /* لون البوردر */
+  transform: translateX(-50%);
+}
