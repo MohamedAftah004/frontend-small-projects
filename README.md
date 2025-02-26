@@ -20,7 +20,6 @@ This is where I store all my frontend projects, including challenges from **Fron
 - ✅ **HTML5** for structure  
 - 🎨 **CSS3** for styling  
 - 📱 **Responsive Design** for all devices  
-- 🎭 **JavaScript** (for interactivity when needed)  
 - 🏆 **Clean and Best Practices Code**  
 
 ---
