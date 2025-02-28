@@ -18,7 +18,8 @@ This is where I store all my frontend projects, including challenges from **Fron
 ## 🛠 Technologies Used  
 
 - ✅ **HTML5** for structure  
-- 🎨 **CSS3** for styling  
+- 🎨 **CSS3** for styling
+- 🧭 **BOOTSTRAP**
 - 📱 **Responsive Design** for all devices  
 - 🏆 **Clean and Best Practices Code**  
 
