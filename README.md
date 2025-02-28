@@ -1,22 +1,32 @@
-# 🍳 Recipe Page - Frontend Mentor Challenge
+# 🚀 Frontend Projects  
 
-هذا المشروع هو أحد التحديات من **Frontend Mentor**، حيث قمت بتطوير **صفحة وصفة طعام** باستخدام **HTML** و **CSS** فقط، مع التركيز على التصميم المتجاوب والتناسق البصري.  
-
-🔗 **[📌 مشاهدة المشروع مباشرة](https://mohamedaftah004.github.io/Frontend-Projects/recipe-page-main/)**  
-
----
-
-## 📸 معاينة التصميم
-
-![Recipe Page Preview](design/desktop-design.jpg)
+Welcome to my **Frontend Projects** repository! 🎨  
+This is where I store all my frontend projects, including challenges from **Frontend Mentor** and other personal projects.  
 
 ---
 
-## 🛠 التقنيات المستخدمة
+## 📂 Projects  
 
-- ✅ **HTML5** لبنية الصفحة
-- 🎨 **CSS3** لتصميم أنيق ومتجاوب
-- 📱 **Responsive Design** ليتناسب مع جميع الشاشات
-- 🏆 **Best Practices & Clean Code**
+| Project Name    | Live Demo               <br>
+|-----------------|-------------
+| **Recipe Page** | [🔗 View Project](https://mohamedaftah004.github.io/Frontend-Projects/recipe-page-main/) 
+
+*(More projects will be added soon!)*  
 
 ---
+
+## 🛠 Technologies Used  
+
+- ✅ **HTML5** for structure  
+- 🎨 **CSS3** for styling
+- 🧭 **BOOTSTRAP**
+- 📱 **Responsive Design** for all devices  
+- 🏆 **Clean and Best Practices Code**  
+
+---
+
+## 🔧 How to Use  
+
+1. **Clone this repository:**  
+   ```bash
+   git clone https://github.com/MohamedAftah004/frontend-projects.git
