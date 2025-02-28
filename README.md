@@ -9,7 +9,7 @@ This is where I store all my frontend projects, including challenges from **Fron
 
 | Project Name    | Live Demo               <br>
 |-----------------|-------------
-| **Recipe Page** | [🔗 View Project](https://mohamedaftah004.github.io/Frontend-Projects/recipe-page-main/) 
+| **Recipe Page** | [🔗 View Project](https://socialll-links-profile-mainn.netlify.app/) 
 
 *(More projects will be added soon!)*  
 
