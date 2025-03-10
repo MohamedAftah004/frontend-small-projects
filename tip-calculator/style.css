@@ -1,0 +1,96 @@
+body{
+  background-color: #1C110A;
+  font-family: sans-serif;
+}
+
+.container{
+  background-color: #E4D6A7;
+  align-content: center;
+  margin:0 auto;
+  width:600px;
+  padding:10px;
+  margin-top:100px;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 29px 93px 0px rgba(193,212,115,0.23);
+  -moz-box-shadow: 0px 29px 93px 0px rgba(193,212,115,0.23);
+  box-shadow: 0px 29px 93px 0px rgba(193,212,115,0.23);
+}
+
+.bill-amount{
+  margin-bottom: 30px;
+}
+
+.container-header{
+  align-content: center;
+}
+
+.container-header .title{
+  display: flex;
+  justify-content: center;
+}
+.container-header .about{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.text-box{
+  margin-left: 5%;
+  width: 90%;
+  height:30px;
+  font-size:20px;
+  outline:none;
+  border-radius: 8px ; 
+}
+
+.calculation{
+margin-top:20px;
+}
+
+#calculate-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left:5%;
+  cursor: pointer;
+  width:90%;
+  height:40px;
+  border-radius: 8px ; 
+background-color: #9B2915;
+color:white;
+font-size:20px;
+font-weight: 600;
+letter-spacing: 2px;
+}
+#calculate-btn:hover
+{
+  background-color: #9b2915b9;
+}
+
+.label{
+margin-left:5%;
+margin-bottom: 8px;
+}
+
+#calculated-amount{
+margin-left: 5px;
+  
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+    margin-top: 50px;
+  }
+
+  .text-box, #calculate-btn, #reset-btn {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .label {
+    margin-left: 0;
+    text-align: center;
+  }
+}
