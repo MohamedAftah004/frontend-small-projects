@@ -12,6 +12,7 @@ This is where I store all my frontend projects, including challenges from **Fron
 | **Recipe Page** | [🔗 View Project](https://simple-recipe-page-main.netlify.app/) 
 | **Profile Main** | [🔗 View Project](https://socialll-links-profile-mainn.netlify.app/) 
 | **Age Calculator** | [🔗 View Project](https://proj1-simple-age-calculator.netlify.app/) 
+| **Tip Calculator** | [🔗 View Project](https://proj2-tip-calculator.netlify.app/) 
 
 *(More projects will be added soon!)*  
 
