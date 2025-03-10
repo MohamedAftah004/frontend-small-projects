@@ -13,6 +13,7 @@ This is where I store all my frontend projects, including challenges from **Fron
 | **Profile Main** | [🔗 View Project](https://socialll-links-profile-mainn.netlify.app/) 
 | **Age Calculator** | [🔗 View Project](https://proj1-simple-age-calculator.netlify.app/) 
 | **Tip Calculator** | [🔗 View Project](https://proj2-tip-calculator.netlify.app/) 
+| **Preview Recipe Book App** | [🔗 View Project](https://pro3-preview-recipe-book-app.netlify.app/) 
 
 *(More projects will be added soon!)*  
 
@@ -20,9 +21,10 @@ This is where I store all my frontend projects, including challenges from **Fron
 
 ## 🛠 Technologies Used  
 
-- ✅ **HTML5** for structure  
+- </> **HTML5** for structure  
 - 🎨 **CSS3** for styling
-- 🧭 **BOOTSTRAP**
+- ⚡  **JS** for interactivity
+- 🤝 **BOOTSTRAP** for Responsive 
 - 📱 **Responsive Design** for all devices  
 - 🏆 **Clean and Best Practices Code**  
 
